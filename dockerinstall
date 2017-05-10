@@ -8,6 +8,7 @@
 ## Email :  ExtremeSTRAUSSER@gmail.com                  ##
 ##                                                      ##
 ##########################################################
+sleep 4
 #Script Console Colors
 black=$(tput setaf 0);
 red=$(tput setaf 1); 
