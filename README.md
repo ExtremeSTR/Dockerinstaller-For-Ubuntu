@@ -1,6 +1,6 @@
 # Docker - CE Installer For Ubuntu
 
 ```
-wget https://rawgit.com/ExtremeSTR/Dockerinstaller-For-Ubuntu/master/dockerinstall
+wget https://cdn.jsdelivr.net/gh/ExtremeSTR/Dockerinstaller-For-Ubuntu/dockerinstall
 sudo -s bash dockerinstall
 ```
